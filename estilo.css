@@ -1,0 +1,31 @@
+body {
+		background-color: black;
+	}	
+
+	h1 {
+		color: #F4A460;
+		text-align: center;
+	}
+
+	h3 {
+		color: #F4A460;
+		text-align: center;
+	}
+
+	#portas {
+		text-align: center;
+	}
+
+	#imagem {
+		text-align: center;
+	}
+
+	a:link, a:visited {
+		text-decoration: none;
+		color: #F4A460
+		
+	}
+
+	a:hover {
+		color: white;
+	}
